@@ -10,7 +10,7 @@ by Chao Zhu, Hang Dong, Jinshan Pan, Boyang Liang, Yuhao Huang, Lean Fu, and Fei
 ![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/tree/main/example_results/GORPO/goproresult1.pdf)
 
 ### Results on DVD
-![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/tree/main/example_results/DVD/DVD1.pdf)
+![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/tree/main/example_results/DVD/DVD.png)
 
 ### Results on RBVD
 ![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/tree/main/example_results/RBVD/RBVDresults_crop.pdf)
