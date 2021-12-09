@@ -7,13 +7,13 @@ by Chao Zhu, Hang Dong, Jinshan Pan, Boyang Liang, Yuhao Huang, Lean Fu, and Fei
 ## Results
 
 ### Results on GOPRO
-![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/main/example_results/GOPRO/goproresult1.pdf)
+![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/tree/main/example_results/GORPO/goproresult1.pdf)
 
 ### Results on DVD
-![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/main/example_results/DVD/DVD1.pdf)
+![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/tree/main/example_results/DVD/DVD1.pdf)
 
 ### Results on RBVD
-![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/main/example_results/RBVD/RBVDresults_crop.pdf)
+![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/tree/main/example_results/RBVD/RBVDresults_crop.pdf)
 
 
 ## Prerequisites
