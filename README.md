@@ -7,7 +7,7 @@ by Chao Zhu, Hang Dong, Jinshan Pan, Boyang Liang, Yuhao Huang, Lean Fu, and Fei
 ## Results
 
 ### Results on GOPRO
-![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/tree/main/example_results/GORPO/GOPRO.png)
+![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/blob/main/example_results/GORPO/GOPRO.png)
 
 ### Results on DVD
 ![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/blob/main/example_results/DVD/DVD.png)
