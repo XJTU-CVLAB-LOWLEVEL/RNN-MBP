@@ -18,7 +18,7 @@ by Chao Zhu, Hang Dong, Jinshan Pan, Boyang Liang, Yuhao Huang, Lean Fu, and Fei
 
 ## Prerequisites
 
-- Python 3.6
+- Python 3.6 
 - PyTorch 1.8
 - opencv-python
 - scikit-image
