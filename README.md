@@ -1,7 +1,7 @@
 # RNN-MBP
 [Deep Recurrent Neural Network with Multi-scale Bi-directional Propagation for Video Deblurring (AAAI-2022)](https://arxiv.org/abs/2112.05150)
 
-by Chao Zhu, Hang Dong, Jinshan Pan, Boyang Liang, Yuhao Huang, Lean Fu, and Fei Wang
+by Chao Zhu, [Hang Dong](https://sites.google.com/view/hdong/%E9%A6%96%E9%A1%B5), Jinshan Pan, Boyang Liang, Yuhao Huang, Lean Fu, and Fei Wang
 
 [Supplementary Material](https://drive.google.com/drive/folders/1i0EdcaSnSIrn38jm6nwKtANacTct083R?usp=sharing)
 
