@@ -1,9 +1,8 @@
 # RNN-MBP
-[Deep Recurrent Neural Network with Multi-scale Bi-directional Propagation for Video Deblurring (AAAI-2022)](https://arxiv.org/abs/2112.05150)
-
+Deep Recurrent Neural Network with Multi-scale Bi-directional Propagation for Video Deblurring (AAAI-2022)
 by [Chao Zhu](https://www.sivlab-xjtu.com/), [Hang Dong](https://sites.google.com/view/hdong/%E9%A6%96%E9%A1%B5), [Jinshan Pan](https://jspan.github.io/), Boyang Liang, Yuhao Huang, Lean Fu, and [Fei Wang](https://www.sivlab-xjtu.com)
+[Paper](https://arxiv.org/abs/2112.05150) [Supp](https://drive.google.com/drive/folders/1i0EdcaSnSIrn38jm6nwKtANacTct083R?usp=sharing)
 
-[Supplementary Material](https://drive.google.com/drive/folders/1i0EdcaSnSIrn38jm6nwKtANacTct083R?usp=sharing)
 
 ## Results
 
