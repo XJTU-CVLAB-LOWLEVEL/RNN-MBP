@@ -7,7 +7,8 @@ by [Chao Zhu](https://www.sivlab-xjtu.com/), [Hang Dong](https://sites.google.co
 
 ## Results
 
-### Results on GOPRO
+### Results on GOPRO  
+![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/blob/main/example_results/GORPO/GOPRO_RESULTS.png)
 ![image](https://github.com/XJTU-CVLAB-LOWLEVEL/RNN-MBP/blob/main/example_results/GORPO/GOPRO.png)
 
 ### Results on DVD
